@@ -12,6 +12,7 @@ namespace ConsoleApplication1
         {
             Console.WriteLine("TI PIROD");
             Console.WriteLine("нет я не пидор");
+            Console.WriteLine("нет я  пидор");
         }
     }
 }
